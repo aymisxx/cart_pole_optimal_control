@@ -38,12 +38,12 @@ external force acting on the cart.
 ## 2.1 Parameters
 
 ```
-  Parameter         Value
-  ----------------- -----------
-  Cart Mass (M)     1.0 kg
-  Pole Mass (m)     1.0 kg
-  Pole Length (L)   1.0 m
-  Gravity (g)       9.81 m/s²
+  Parameter        |Value
+  -----------------|-----------
+  Cart Mass (M)    |1.0 kg
+  Pole Mass (m)    |1.0 kg
+  Pole Length (L)  |1.0 m
+  Gravity (g)      |9.81 m/s²
 ```
 
 ------------------------------------------------------------------------
